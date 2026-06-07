@@ -1,6 +1,6 @@
 // ── FinTrack API Client ──────────────────────────────────────────
 // Replace this URL with your actual Railway backend URL
-export const API_URL = "fintrack-backend-production-4e2c.up.railway.app";
+export const API_URL = "https://Sfintrack-backend-production-4e2c.up.railway.app";
 
 // Token stored in memory (not localStorage for security)
 let _token = null;
